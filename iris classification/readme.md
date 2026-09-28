@@ -32,7 +32,6 @@ Iris-Flower-Classification/
 ├── analysis.ipynb      # Jupyter Notebook containing the complete analysis
 ├── Iris.csv            # Dataset used for training and testing
 ├── README.md            # Project documentation
-└── requirements.txt     # Project dependencies
 ```
 
 ---
